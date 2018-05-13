@@ -178,8 +178,6 @@ public class MasterActivity extends OnlineActivity implements HeadlinesEventList
 
             m_feedIsSelected = true;
 
-			checkTrial(true);
-
 		} else { // savedInstanceState != null
 
 			if (m_drawerLayout != null && !m_feedIsSelected) {

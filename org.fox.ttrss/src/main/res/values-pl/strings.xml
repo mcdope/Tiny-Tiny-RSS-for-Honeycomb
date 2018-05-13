@@ -137,12 +137,6 @@
         <item quantity="other">%1$d komentarzy</item>
     </plurals>
 
-    <plurals name="trial_mode_prompt">
-        <item quantity="other">Tryb wersji testowej, pozostało dni: %1$d.</item>
-    </plurals>
-    <string name="trial_purchase">Odblokuj pełną wersję</string>
-    <string name="trial_expired">Wersja testowa wygasła</string>
-    <string name="trial_expired_message">Aby nadal używać Tiny Tiny RSS odblokuj pełną wersję kupując klucz aktywacyjny.</string>
     <string name="theme_sepia">Sepia</string>
     <string name="reading">Czytanie</string>
     <string name="offline_articles_to_download">Ilość artykułów do pobrania</string>

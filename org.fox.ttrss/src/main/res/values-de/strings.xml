@@ -125,14 +125,6 @@
         <item quantity="other">%1$d Kommentare</item>
     </plurals>
 
-    <plurals name="trial_mode_prompt">
-        <item quantity="one">Testversion, nur noch ein Tag übrig.</item>
-        <item quantity="other">Testversion, %1$d Tage übrig.</item>
-    </plurals>
-
-    <string name="trial_purchase">Vollversion freischalten</string>
-    <string name="trial_expired">Testzeitraum abgelaufen</string>
-    <string name="trial_expired_message">Um Tiny Tiny RSS weiterhin nutzen zu können kaufen Sie bitte den Schlüssel.</string>
     <string name="theme_sepia">Sepia</string>
     <string name="theme_amber">Bernstein</string>
     <string name="reading">Lesen</string>

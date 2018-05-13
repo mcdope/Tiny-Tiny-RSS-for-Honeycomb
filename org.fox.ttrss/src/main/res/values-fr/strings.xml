@@ -125,14 +125,6 @@
         <item quantity="other">%1$d commentaires</item>
     </plurals>
 
-    <plurals name="trial_mode_prompt">
-        <item quantity="one">Mode évaluation, un seul jour restant.</item>
-        <item quantity="other">Mode évaluation, %1$d jours restants.</item>
-    </plurals>
-
-    <string name="trial_purchase">Débloquer la version complète</string>
-    <string name="trial_expired">La période d\'évaluation a expiré</string>
-    <string name="trial_expired_message">Pour continuer à utiliser Tiny Tiny RSS merci de débloquer la version complète en achetant la clé.</string>
     <string name="theme_sepia">Sépia</string>
     <string name="theme_amber">Ambre</string>
     <string name="reading">Lecture</string>

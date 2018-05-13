@@ -115,12 +115,6 @@
   <plurals name="article_comments">
      <item quantity="other">%1$d komentáre</item>
   </plurals>
-  <plurals name="trial_mode_prompt">
-      <item quantity="other">Trial verzia, ostáva %1$d dní.</item>
-  </plurals>
-  <string name="trial_purchase">Odomknúť plnú verziu</string>
-  <string name="trial_expired">Trial verzia vypršala</string>
-  <string name="trial_expired_message">Ak chcete pokračovať v používaní aplikácie Tiny Tiny RSS, prosím odomknite ju zakúpeným kľúčom.</string>
   <string name="theme_sepia">Sépia</string>
   <string name="reading">Čítanie</string>
   <string name="offline_articles_to_download">Počet článkov na stiahnutie</string>
